@@ -5,7 +5,7 @@ import numpy as np
 
 
 
-df = pd.read_csv(r'C:\Users\briaa\Documents\streamlit\customer_shopping_data.csv')
+df = pd.read_csv('customer_shopping_data.csv')
 
 
 
